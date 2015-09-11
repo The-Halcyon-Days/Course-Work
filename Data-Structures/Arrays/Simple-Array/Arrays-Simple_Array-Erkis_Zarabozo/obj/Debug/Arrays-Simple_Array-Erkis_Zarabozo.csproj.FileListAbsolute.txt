@@ -1,0 +1,6 @@
+C:\Github\Arrays-Simple_Array-Erkis_Zarabozo\Arrays-Simple_Array-Erkis_Zarabozo\bin\Debug\Arrays-Simple_Array-Erkis_Zarabozo.exe.config
+C:\Github\Arrays-Simple_Array-Erkis_Zarabozo\Arrays-Simple_Array-Erkis_Zarabozo\bin\Debug\Arrays-Simple_Array-Erkis_Zarabozo.exe
+C:\Github\Arrays-Simple_Array-Erkis_Zarabozo\Arrays-Simple_Array-Erkis_Zarabozo\bin\Debug\Arrays-Simple_Array-Erkis_Zarabozo.pdb
+C:\Github\Arrays-Simple_Array-Erkis_Zarabozo\Arrays-Simple_Array-Erkis_Zarabozo\obj\Debug\Arrays-Simple_Array-Erkis_Zarabozo.csprojResolveAssemblyReference.cache
+C:\Github\Arrays-Simple_Array-Erkis_Zarabozo\Arrays-Simple_Array-Erkis_Zarabozo\obj\Debug\Arrays-Simple_Array-Erkis_Zarabozo.exe
+C:\Github\Arrays-Simple_Array-Erkis_Zarabozo\Arrays-Simple_Array-Erkis_Zarabozo\obj\Debug\Arrays-Simple_Array-Erkis_Zarabozo.pdb

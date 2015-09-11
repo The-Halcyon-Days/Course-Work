@@ -1,5 +1,15 @@
-# Course-Work
-<<<<<<< HEAD
-College courses' assignments, labs, and homework.
-=======
->>>>>>> a426feea907ebcd3f2170b41530861cbbb213977
+#Course Work Repository
+
+-----
+##Current CS Classes:
+* C Programming
+* Data Structures
+ 
+
+-----
+##CS Classes Completed:
+* C# with .NET
+* Java Programming
+ 
+
+-----

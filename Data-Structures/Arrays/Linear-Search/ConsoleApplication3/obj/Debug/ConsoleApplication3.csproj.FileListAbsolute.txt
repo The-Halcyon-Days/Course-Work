@@ -1,6 +1,0 @@
-C:\Github\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-C:\Github\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-C:\Github\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Github\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
-C:\Github\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-C:\Github\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

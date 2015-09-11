@@ -1,6 +1,0 @@
-C:\Github\Loops-Lab_Loops-Erkis_Zarabozo\Loops-Lab_Loops-Erkis_Zarabozo\bin\Debug\Loops-Lab_Loops-Erkis_Zarabozo.exe.config
-C:\Github\Loops-Lab_Loops-Erkis_Zarabozo\Loops-Lab_Loops-Erkis_Zarabozo\bin\Debug\Loops-Lab_Loops-Erkis_Zarabozo.exe
-C:\Github\Loops-Lab_Loops-Erkis_Zarabozo\Loops-Lab_Loops-Erkis_Zarabozo\bin\Debug\Loops-Lab_Loops-Erkis_Zarabozo.pdb
-C:\Github\Loops-Lab_Loops-Erkis_Zarabozo\Loops-Lab_Loops-Erkis_Zarabozo\obj\Debug\Loops-Lab_Loops-Erkis_Zarabozo.csprojResolveAssemblyReference.cache
-C:\Github\Loops-Lab_Loops-Erkis_Zarabozo\Loops-Lab_Loops-Erkis_Zarabozo\obj\Debug\Loops-Lab_Loops-Erkis_Zarabozo.exe
-C:\Github\Loops-Lab_Loops-Erkis_Zarabozo\Loops-Lab_Loops-Erkis_Zarabozo\obj\Debug\Loops-Lab_Loops-Erkis_Zarabozo.pdb

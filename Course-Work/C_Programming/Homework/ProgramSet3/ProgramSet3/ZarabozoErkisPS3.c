@@ -1,14 +1,9 @@
 // Homework: Program Set 3
 // Name: Erkis Zarabozo
 // SID: 836873
-//
-// Output:
-// The radius of the circle is : 5
-// The diameter of the circle is : 10.00000
-// The circumference of the circle is : 78.53975
-// The circumference of the circle is : 31.41590
-// Press any key to continue . . .
 
+
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -23,13 +18,13 @@ void main()
 	printf("Please enter the stock name: ");
 	gets(stockName);
 
-//	fflush(stdin);
+	//	fflush(stdin);
 
 	printf("Please enter the number of shares for that stock: ");
 	scanf("%d", &numOfShares);
 
 	printf("Please enter the buying price; current price; and yearly fees :");
-	scanf("%f %f %f", &buyingPrice);
+	scanf("%f %f %f", &buyingPrice, &currentPrice, &yearlyFees);
 
 	// Task 2
 	float initCost = buyingPrice * (float)numOfShares;
@@ -37,7 +32,7 @@ void main()
 	float profit = currentPrice - yearlyFees;
 
 	// Task 3
-	printf("");
+	printf("|%15s-|%-15.2f-|%-15.2f|%-15.2f|\n", initCost, currentCost, profit);
 
 
 	system("pause");

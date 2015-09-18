@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\LinkedList.cs" />
-    <Compile Include="Classes\Node.cs" />
     <Compile Include="Classes\Stack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

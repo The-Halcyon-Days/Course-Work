@@ -9,20 +9,17 @@ namespace Program_1.Classes
 {
     class Stack
     {
-        //private readonly  int[] StackArray = new int[10];
         private static int _topOfStack = -1;
         private static LinkedList psuedoStack = new LinkedList();
 
         public static void Push(int element)
         {
             _topOfStack++;
-            //StackArray[_topOfStack] = element;
             psuedoStack.Add(element);
         }
 
         public static int Pop()
         {
-            //int poppedElement = StackArray[_topOfStack];
             int poppedElement = psuedoStack.RemoveLast();
             _topOfStack--;
             return poppedElement;

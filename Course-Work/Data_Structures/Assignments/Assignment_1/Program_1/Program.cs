@@ -18,7 +18,7 @@ namespace Program_1
 
             while (true)
             {
-                if (Console.Read() == "+")
+                if ()
                 {
                     
                 }

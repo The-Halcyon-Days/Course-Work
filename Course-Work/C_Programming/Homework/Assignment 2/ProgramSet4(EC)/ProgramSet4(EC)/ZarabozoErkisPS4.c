@@ -30,39 +30,39 @@ void main()
 			result = firstNum + secNum;
             printf("= %lf\n", result);
             break;
-        
+
 		case '-':
             result = firstNum - secNum;
             printf("= %lf\n", result);
             break;
-        
+
 		case '*':
 			result = firstNum * secNum;
             printf("= %lf\n", result);
             break;
-       
+
 		case '/':
 			if (firstNum == 0 || secNum == 0)
 			{
 				printf("Division by zero error!\n");
 				break;
 			}
-            
+
 			result = firstNum / secNum;
             printf("= %lf\n", result);
             break;
-        
+
 		case '%':
 			if (firstNum == 0 || secNum == 0)
 			{
 				printf("Division by zero error!\n");
 				break;
 			}
-        
+
 			result = (int)firstNum % (int)secNum;
             printf("= %d\n", (int)result);
             break;
-        
+
 		default:
 			printf("Error");
             break;
@@ -70,3 +70,12 @@ void main()
 
     system("pause");
 }
+
+//======================================================|
+//			       		Output             				|
+//------------------------------------------------------|
+// Enter the calculation                                |
+// 30*30                                                |
+// = 900                                                |
+// Press any key to continue . . .                      |
+//======================================================|

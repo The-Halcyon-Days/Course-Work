@@ -17,12 +17,14 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-#include <ctime>
+#include <time.h>
 
 void main ()
 {
 	int dice1, dice2, total;
-	srand(time(NULL));
+	
+	time_t t;
+	srand((unsigned) time(&t));
 
 //======================================================|
 

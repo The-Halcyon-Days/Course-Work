@@ -12,7 +12,7 @@
 // Class:	CS36										|
 //======================================================|
 
-#define CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -23,7 +23,7 @@ void main()
 	printf("Enter a grade [ A, B, C, D, F ] : ");
 	fflush(stdin);
 	scanf(" %c", &grade);
-	
+
 	if (grade == 'A' || grade == 'a')
 	{
 		printf("The score for the grade '%c' is 4.00 \n ", grade);

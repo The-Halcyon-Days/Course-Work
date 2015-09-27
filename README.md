@@ -13,18 +13,3 @@
 ### CS Classes Completed:
 * C# with .NET
 * Java Programming
-
-
- -----
-## Personal Learning
-
-### Active
-* Git
-* Markdown
-* LaTeX
-
-### Previous
-* Javascript
-
-
------

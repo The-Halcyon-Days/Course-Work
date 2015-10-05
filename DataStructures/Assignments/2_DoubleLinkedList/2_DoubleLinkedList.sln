@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_DoubleLinkedList", "2_DoubleLinkedList\2_DoubleLinkedList.csproj", "{C8FDBF44-8152-45D5-955E-9EC9A18AFD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FDBF44-8152-45D5-955E-9EC9A18AFD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FDBF44-8152-45D5-955E-9EC9A18AFD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FDBF44-8152-45D5-955E-9EC9A18AFD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FDBF44-8152-45D5-955E-9EC9A18AFD54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
